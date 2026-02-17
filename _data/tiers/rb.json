@@ -1,0 +1,164 @@
+{
+  "position": "RB",
+  "week": 6,
+  "season": 2026,
+  "last_updated": "2026-02-16T12:00:00Z",
+  "formats": {
+    "standard": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "Breece Hall", "team": "NYJ", "rank": 1 },
+            { "name": "Bijan Robinson", "team": "ATL", "rank": 2 },
+            { "name": "Saquon Barkley", "team": "PHI", "rank": 3 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Jahmyr Gibbs", "team": "DET", "rank": 4 },
+            { "name": "Jonathan Taylor", "team": "IND", "rank": 5 },
+            { "name": "De'Von Achane", "team": "MIA", "rank": 6 },
+            { "name": "Derrick Henry", "team": "BAL", "rank": 7 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Josh Jacobs", "team": "GB", "rank": 8 },
+            { "name": "Kyren Williams", "team": "LAR", "rank": 9 },
+            { "name": "Kenneth Walker III", "team": "SEA", "rank": 10 },
+            { "name": "Isiah Pacheco", "team": "KC", "rank": 11 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "Joe Mixon", "team": "HOU", "rank": 12 },
+            { "name": "James Cook", "team": "BUF", "rank": 13 },
+            { "name": "Aaron Jones", "team": "MIN", "rank": 14 },
+            { "name": "David Montgomery", "team": "DET", "rank": 15 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Travis Etienne", "team": "JAX", "rank": 16 },
+            { "name": "Najee Harris", "team": "PIT", "rank": 17 },
+            { "name": "Rachaad White", "team": "TB", "rank": 18 }
+          ]
+        },
+        {
+          "tier": 6,
+          "players": [
+            { "name": "Tony Pollard", "team": "TEN", "rank": 19 },
+            { "name": "Zamir White", "team": "LV", "rank": 20 },
+            { "name": "Zack Moss", "team": "CIN", "rank": 21 }
+          ]
+        }
+      ]
+    },
+    "ppr": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "Bijan Robinson", "team": "ATL", "rank": 1 },
+            { "name": "Saquon Barkley", "team": "PHI", "rank": 2 },
+            { "name": "De'Von Achane", "team": "MIA", "rank": 3 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Breece Hall", "team": "NYJ", "rank": 4 },
+            { "name": "Jahmyr Gibbs", "team": "DET", "rank": 5 },
+            { "name": "Jonathan Taylor", "team": "IND", "rank": 6 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Kyren Williams", "team": "LAR", "rank": 7 },
+            { "name": "Josh Jacobs", "team": "GB", "rank": 8 },
+            { "name": "Derrick Henry", "team": "BAL", "rank": 9 },
+            { "name": "Kenneth Walker III", "team": "SEA", "rank": 10 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "James Cook", "team": "BUF", "rank": 11 },
+            { "name": "Aaron Jones", "team": "MIN", "rank": 12 },
+            { "name": "Isiah Pacheco", "team": "KC", "rank": 13 },
+            { "name": "Joe Mixon", "team": "HOU", "rank": 14 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "David Montgomery", "team": "DET", "rank": 15 },
+            { "name": "Travis Etienne", "team": "JAX", "rank": 16 },
+            { "name": "Najee Harris", "team": "PIT", "rank": 17 }
+          ]
+        },
+        {
+          "tier": 6,
+          "players": [
+            { "name": "Rachaad White", "team": "TB", "rank": 18 },
+            { "name": "Tony Pollard", "team": "TEN", "rank": 19 },
+            { "name": "Zack Moss", "team": "CIN", "rank": 20 }
+          ]
+        }
+      ]
+    },
+    "half_ppr": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "Bijan Robinson", "team": "ATL", "rank": 1 },
+            { "name": "Breece Hall", "team": "NYJ", "rank": 2 },
+            { "name": "Saquon Barkley", "team": "PHI", "rank": 3 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Jahmyr Gibbs", "team": "DET", "rank": 4 },
+            { "name": "De'Von Achane", "team": "MIA", "rank": 5 },
+            { "name": "Jonathan Taylor", "team": "IND", "rank": 6 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Derrick Henry", "team": "BAL", "rank": 7 },
+            { "name": "Josh Jacobs", "team": "GB", "rank": 8 },
+            { "name": "Kyren Williams", "team": "LAR", "rank": 9 },
+            { "name": "Kenneth Walker III", "team": "SEA", "rank": 10 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "Isiah Pacheco", "team": "KC", "rank": 11 },
+            { "name": "Joe Mixon", "team": "HOU", "rank": 12 },
+            { "name": "James Cook", "team": "BUF", "rank": 13 },
+            { "name": "Aaron Jones", "team": "MIN", "rank": 14 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "David Montgomery", "team": "DET", "rank": 15 },
+            { "name": "Travis Etienne", "team": "JAX", "rank": 16 },
+            { "name": "Najee Harris", "team": "PIT", "rank": 17 },
+            { "name": "Rachaad White", "team": "TB", "rank": 18 }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "position": "WR",
+  "week": 6,
+  "season": 2026,
+  "last_updated": "2026-02-16T12:00:00Z",
+  "formats": {
+    "standard": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "CeeDee Lamb", "team": "DAL", "rank": 1 },
+            { "name": "Ja'Marr Chase", "team": "CIN", "rank": 2 },
+            { "name": "Tyreek Hill", "team": "MIA", "rank": 3 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Amon-Ra St. Brown", "team": "DET", "rank": 4 },
+            { "name": "A.J. Brown", "team": "PHI", "rank": 5 },
+            { "name": "Garrett Wilson", "team": "NYJ", "rank": 6 },
+            { "name": "Nico Collins", "team": "HOU", "rank": 7 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Davante Adams", "team": "LV", "rank": 8 },
+            { "name": "Marvin Harrison Jr.", "team": "ARI", "rank": 9 },
+            { "name": "Malik Nabers", "team": "NYG", "rank": 10 },
+            { "name": "DK Metcalf", "team": "SEA", "rank": 11 },
+            { "name": "Chris Olave", "team": "NO", "rank": 12 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "Brandon Aiyuk", "team": "SF", "rank": 13 },
+            { "name": "DJ Moore", "team": "CHI", "rank": 14 },
+            { "name": "DeVonta Smith", "team": "PHI", "rank": 15 },
+            { "name": "Drake London", "team": "ATL", "rank": 16 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Mike Evans", "team": "TB", "rank": 17 },
+            { "name": "Stefon Diggs", "team": "HOU", "rank": 18 },
+            { "name": "Jaylen Waddle", "team": "MIA", "rank": 19 },
+            { "name": "Terry McLaurin", "team": "WAS", "rank": 20 }
+          ]
+        },
+        {
+          "tier": 6,
+          "players": [
+            { "name": "Christian Kirk", "team": "JAX", "rank": 21 },
+            { "name": "George Pickens", "team": "PIT", "rank": 22 },
+            { "name": "Zay Flowers", "team": "BAL", "rank": 23 },
+            { "name": "Tank Dell", "team": "HOU", "rank": 24 }
+          ]
+        },
+        {
+          "tier": 7,
+          "players": [
+            { "name": "Diontae Johnson", "team": "CAR", "rank": 25 },
+            { "name": "Curtis Samuel", "team": "BUF", "rank": 26 },
+            { "name": "Rashee Rice", "team": "KC", "rank": 27 }
+          ]
+        }
+      ]
+    },
+    "ppr": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "CeeDee Lamb", "team": "DAL", "rank": 1 },
+            { "name": "Ja'Marr Chase", "team": "CIN", "rank": 2 },
+            { "name": "Tyreek Hill", "team": "MIA", "rank": 3 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Amon-Ra St. Brown", "team": "DET", "rank": 4 },
+            { "name": "A.J. Brown", "team": "PHI", "rank": 5 },
+            { "name": "Nico Collins", "team": "HOU", "rank": 6 },
+            { "name": "Garrett Wilson", "team": "NYJ", "rank": 7 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Davante Adams", "team": "LV", "rank": 8 },
+            { "name": "Malik Nabers", "team": "NYG", "rank": 9 },
+            { "name": "Marvin Harrison Jr.", "team": "ARI", "rank": 10 },
+            { "name": "Chris Olave", "team": "NO", "rank": 11 },
+            { "name": "DK Metcalf", "team": "SEA", "rank": 12 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "DeVonta Smith", "team": "PHI", "rank": 13 },
+            { "name": "Brandon Aiyuk", "team": "SF", "rank": 14 },
+            { "name": "DJ Moore", "team": "CHI", "rank": 15 },
+            { "name": "Drake London", "team": "ATL", "rank": 16 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Jaylen Waddle", "team": "MIA", "rank": 17 },
+            { "name": "Mike Evans", "team": "TB", "rank": 18 },
+            { "name": "Terry McLaurin", "team": "WAS", "rank": 19 },
+            { "name": "Stefon Diggs", "team": "HOU", "rank": 20 }
+          ]
+        },
+        {
+          "tier": 6,
+          "players": [
+            { "name": "Zay Flowers", "team": "BAL", "rank": 21 },
+            { "name": "Christian Kirk", "team": "JAX", "rank": 22 },
+            { "name": "George Pickens", "team": "PIT", "rank": 23 },
+            { "name": "Tank Dell", "team": "HOU", "rank": 24 }
+          ]
+        }
+      ]
+    },
+    "half_ppr": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "CeeDee Lamb", "team": "DAL", "rank": 1 },
+            { "name": "Ja'Marr Chase", "team": "CIN", "rank": 2 },
+            { "name": "Tyreek Hill", "team": "MIA", "rank": 3 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Amon-Ra St. Brown", "team": "DET", "rank": 4 },
+            { "name": "A.J. Brown", "team": "PHI", "rank": 5 },
+            { "name": "Garrett Wilson", "team": "NYJ", "rank": 6 },
+            { "name": "Nico Collins", "team": "HOU", "rank": 7 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Davante Adams", "team": "LV", "rank": 8 },
+            { "name": "Marvin Harrison Jr.", "team": "ARI", "rank": 9 },
+            { "name": "Malik Nabers", "team": "NYG", "rank": 10 },
+            { "name": "DK Metcalf", "team": "SEA", "rank": 11 },
+            { "name": "Chris Olave", "team": "NO", "rank": 12 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "Brandon Aiyuk", "team": "SF", "rank": 13 },
+            { "name": "DeVonta Smith", "team": "PHI", "rank": 14 },
+            { "name": "DJ Moore", "team": "CHI", "rank": 15 },
+            { "name": "Drake London", "team": "ATL", "rank": 16 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Mike Evans", "team": "TB", "rank": 17 },
+            { "name": "Jaylen Waddle", "team": "MIA", "rank": 18 },
+            { "name": "Terry McLaurin", "team": "WAS", "rank": 19 },
+            { "name": "Stefon Diggs", "team": "HOU", "rank": 20 }
+          ]
+        },
+        {
+          "tier": 6,
+          "players": [
+            { "name": "Christian Kirk", "team": "JAX", "rank": 21 },
+            { "name": "George Pickens", "team": "PIT", "rank": 22 },
+            { "name": "Zay Flowers", "team": "BAL", "rank": 23 },
+            { "name": "Tank Dell", "team": "HOU", "rank": 24 }
+          ]
+        }
+      ]
+    }
+  }
+}

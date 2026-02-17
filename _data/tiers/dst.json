@@ -1,0 +1,149 @@
+{
+  "position": "DST",
+  "week": 6,
+  "season": 2026,
+  "last_updated": "2026-02-16T12:00:00Z",
+  "formats": {
+    "standard": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "49ers", "team": "SF", "rank": 1 },
+            { "name": "Cowboys", "team": "DAL", "rank": 2 },
+            { "name": "Browns", "team": "CLE", "rank": 3 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Jets", "team": "NYJ", "rank": 4 },
+            { "name": "Ravens", "team": "BAL", "rank": 5 },
+            { "name": "Bills", "team": "BUF", "rank": 6 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Steelers", "team": "PIT", "rank": 7 },
+            { "name": "Chiefs", "team": "KC", "rank": 8 },
+            { "name": "Dolphins", "team": "MIA", "rank": 9 },
+            { "name": "Eagles", "team": "PHI", "rank": 10 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "Texans", "team": "HOU", "rank": 11 },
+            { "name": "Lions", "team": "DET", "rank": 12 },
+            { "name": "Saints", "team": "NO", "rank": 13 },
+            { "name": "Broncos", "team": "DEN", "rank": 14 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Bears", "team": "CHI", "rank": 15 },
+            { "name": "Chargers", "team": "LAC", "rank": 16 },
+            { "name": "Vikings", "team": "MIN", "rank": 17 },
+            { "name": "Packers", "team": "GB", "rank": 18 }
+          ]
+        }
+      ]
+    },
+    "ppr": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "49ers", "team": "SF", "rank": 1 },
+            { "name": "Cowboys", "team": "DAL", "rank": 2 },
+            { "name": "Browns", "team": "CLE", "rank": 3 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Jets", "team": "NYJ", "rank": 4 },
+            { "name": "Ravens", "team": "BAL", "rank": 5 },
+            { "name": "Bills", "team": "BUF", "rank": 6 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Steelers", "team": "PIT", "rank": 7 },
+            { "name": "Chiefs", "team": "KC", "rank": 8 },
+            { "name": "Dolphins", "team": "MIA", "rank": 9 },
+            { "name": "Eagles", "team": "PHI", "rank": 10 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "Texans", "team": "HOU", "rank": 11 },
+            { "name": "Lions", "team": "DET", "rank": 12 },
+            { "name": "Saints", "team": "NO", "rank": 13 },
+            { "name": "Broncos", "team": "DEN", "rank": 14 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Bears", "team": "CHI", "rank": 15 },
+            { "name": "Chargers", "team": "LAC", "rank": 16 },
+            { "name": "Vikings", "team": "MIN", "rank": 17 },
+            { "name": "Packers", "team": "GB", "rank": 18 }
+          ]
+        }
+      ]
+    },
+    "half_ppr": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "49ers", "team": "SF", "rank": 1 },
+            { "name": "Cowboys", "team": "DAL", "rank": 2 },
+            { "name": "Browns", "team": "CLE", "rank": 3 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Jets", "team": "NYJ", "rank": 4 },
+            { "name": "Ravens", "team": "BAL", "rank": 5 },
+            { "name": "Bills", "team": "BUF", "rank": 6 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Steelers", "team": "PIT", "rank": 7 },
+            { "name": "Chiefs", "team": "KC", "rank": 8 },
+            { "name": "Dolphins", "team": "MIA", "rank": 9 },
+            { "name": "Eagles", "team": "PHI", "rank": 10 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "Texans", "team": "HOU", "rank": 11 },
+            { "name": "Lions", "team": "DET", "rank": 12 },
+            { "name": "Saints", "team": "NO", "rank": 13 },
+            { "name": "Broncos", "team": "DEN", "rank": 14 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Bears", "team": "CHI", "rank": 15 },
+            { "name": "Chargers", "team": "LAC", "rank": 16 },
+            { "name": "Vikings", "team": "MIN", "rank": 17 },
+            { "name": "Packers", "team": "GB", "rank": 18 }
+          ]
+        }
+      ]
+    }
+  }
+}

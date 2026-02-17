@@ -1,0 +1,140 @@
+{
+  "position": "TE",
+  "week": 6,
+  "season": 2026,
+  "last_updated": "2026-02-16T12:00:00Z",
+  "formats": {
+    "standard": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "Travis Kelce", "team": "KC", "rank": 1 },
+            { "name": "Sam LaPorta", "team": "DET", "rank": 2 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Mark Andrews", "team": "BAL", "rank": 3 },
+            { "name": "T.J. Hockenson", "team": "MIN", "rank": 4 },
+            { "name": "George Kittle", "team": "SF", "rank": 5 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Dallas Goedert", "team": "PHI", "rank": 6 },
+            { "name": "Kyle Pitts", "team": "ATL", "rank": 7 },
+            { "name": "Dalton Kincaid", "team": "BUF", "rank": 8 },
+            { "name": "Evan Engram", "team": "JAX", "rank": 9 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "Jake Ferguson", "team": "DAL", "rank": 10 },
+            { "name": "Pat Freiermuth", "team": "PIT", "rank": 11 },
+            { "name": "David Njoku", "team": "CLE", "rank": 12 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Cole Kmet", "team": "CHI", "rank": 13 },
+            { "name": "Trey McBride", "team": "ARI", "rank": 14 },
+            { "name": "Chigoziem Okonkwo", "team": "TEN", "rank": 15 }
+          ]
+        }
+      ]
+    },
+    "ppr": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "Travis Kelce", "team": "KC", "rank": 1 },
+            { "name": "Sam LaPorta", "team": "DET", "rank": 2 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Mark Andrews", "team": "BAL", "rank": 3 },
+            { "name": "George Kittle", "team": "SF", "rank": 4 },
+            { "name": "T.J. Hockenson", "team": "MIN", "rank": 5 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Evan Engram", "team": "JAX", "rank": 6 },
+            { "name": "Dalton Kincaid", "team": "BUF", "rank": 7 },
+            { "name": "Dallas Goedert", "team": "PHI", "rank": 8 },
+            { "name": "Kyle Pitts", "team": "ATL", "rank": 9 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "David Njoku", "team": "CLE", "rank": 10 },
+            { "name": "Jake Ferguson", "team": "DAL", "rank": 11 },
+            { "name": "Pat Freiermuth", "team": "PIT", "rank": 12 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Cole Kmet", "team": "CHI", "rank": 13 },
+            { "name": "Trey McBride", "team": "ARI", "rank": 14 },
+            { "name": "Chigoziem Okonkwo", "team": "TEN", "rank": 15 }
+          ]
+        }
+      ]
+    },
+    "half_ppr": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "Travis Kelce", "team": "KC", "rank": 1 },
+            { "name": "Sam LaPorta", "team": "DET", "rank": 2 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Mark Andrews", "team": "BAL", "rank": 3 },
+            { "name": "T.J. Hockenson", "team": "MIN", "rank": 4 },
+            { "name": "George Kittle", "team": "SF", "rank": 5 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Dallas Goedert", "team": "PHI", "rank": 6 },
+            { "name": "Dalton Kincaid", "team": "BUF", "rank": 7 },
+            { "name": "Kyle Pitts", "team": "ATL", "rank": 8 },
+            { "name": "Evan Engram", "team": "JAX", "rank": 9 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "Jake Ferguson", "team": "DAL", "rank": 10 },
+            { "name": "David Njoku", "team": "CLE", "rank": 11 },
+            { "name": "Pat Freiermuth", "team": "PIT", "rank": 12 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Cole Kmet", "team": "CHI", "rank": 13 },
+            { "name": "Trey McBride", "team": "ARI", "rank": 14 },
+            { "name": "Chigoziem Okonkwo", "team": "TEN", "rank": 15 }
+          ]
+        }
+      ]
+    }
+  }
+}

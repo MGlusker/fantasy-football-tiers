@@ -1,0 +1,11 @@
+title: Fantasy Football Tiers
+description: Weekly fantasy football tier rankings
+baseurl: ""
+url: ""
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

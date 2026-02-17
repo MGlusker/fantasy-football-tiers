@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="position-page">
+  <h1>{{ page.position_label }} Rankings</h1>
+  {% include scoring-tabs.html %}
+  <div id="tiers-container"></div>
+  <p id="last-updated" class="last-updated"></p>
+</div>
+
+<script>
+  window.__tierData = {{ site.data.tiers[page.position_key] | jsonify }};
+</script>
+<script src="{{ '/assets/js/tiers.js' | relative_url }}"></script>

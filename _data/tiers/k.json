@@ -1,0 +1,143 @@
+{
+  "position": "K",
+  "week": 6,
+  "season": 2026,
+  "last_updated": "2026-02-16T12:00:00Z",
+  "formats": {
+    "standard": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "Harrison Butker", "team": "KC", "rank": 1 },
+            { "name": "Justin Tucker", "team": "BAL", "rank": 2 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Brandon Aubrey", "team": "DAL", "rank": 3 },
+            { "name": "Jake Moody", "team": "SF", "rank": 4 },
+            { "name": "Evan McPherson", "team": "CIN", "rank": 5 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Tyler Bass", "team": "BUF", "rank": 6 },
+            { "name": "Jason Sanders", "team": "MIA", "rank": 7 },
+            { "name": "Ka'imi Fairbairn", "team": "HOU", "rank": 8 },
+            { "name": "Cameron Dicker", "team": "LAC", "rank": 9 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "Jake Elliott", "team": "PHI", "rank": 10 },
+            { "name": "Matt Gay", "team": "IND", "rank": 11 },
+            { "name": "Chris Boswell", "team": "PIT", "rank": 12 },
+            { "name": "Younghoe Koo", "team": "ATL", "rank": 13 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Greg Zuerlein", "team": "NYJ", "rank": 14 },
+            { "name": "Daniel Carlson", "team": "LV", "rank": 15 },
+            { "name": "Graham Gano", "team": "NYG", "rank": 16 }
+          ]
+        }
+      ]
+    },
+    "ppr": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "Harrison Butker", "team": "KC", "rank": 1 },
+            { "name": "Justin Tucker", "team": "BAL", "rank": 2 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Brandon Aubrey", "team": "DAL", "rank": 3 },
+            { "name": "Jake Moody", "team": "SF", "rank": 4 },
+            { "name": "Evan McPherson", "team": "CIN", "rank": 5 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Tyler Bass", "team": "BUF", "rank": 6 },
+            { "name": "Jason Sanders", "team": "MIA", "rank": 7 },
+            { "name": "Ka'imi Fairbairn", "team": "HOU", "rank": 8 },
+            { "name": "Cameron Dicker", "team": "LAC", "rank": 9 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "Jake Elliott", "team": "PHI", "rank": 10 },
+            { "name": "Matt Gay", "team": "IND", "rank": 11 },
+            { "name": "Chris Boswell", "team": "PIT", "rank": 12 },
+            { "name": "Younghoe Koo", "team": "ATL", "rank": 13 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Greg Zuerlein", "team": "NYJ", "rank": 14 },
+            { "name": "Daniel Carlson", "team": "LV", "rank": 15 },
+            { "name": "Graham Gano", "team": "NYG", "rank": 16 }
+          ]
+        }
+      ]
+    },
+    "half_ppr": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "Harrison Butker", "team": "KC", "rank": 1 },
+            { "name": "Justin Tucker", "team": "BAL", "rank": 2 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Brandon Aubrey", "team": "DAL", "rank": 3 },
+            { "name": "Jake Moody", "team": "SF", "rank": 4 },
+            { "name": "Evan McPherson", "team": "CIN", "rank": 5 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Tyler Bass", "team": "BUF", "rank": 6 },
+            { "name": "Jason Sanders", "team": "MIA", "rank": 7 },
+            { "name": "Ka'imi Fairbairn", "team": "HOU", "rank": 8 },
+            { "name": "Cameron Dicker", "team": "LAC", "rank": 9 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "Jake Elliott", "team": "PHI", "rank": 10 },
+            { "name": "Matt Gay", "team": "IND", "rank": 11 },
+            { "name": "Chris Boswell", "team": "PIT", "rank": 12 },
+            { "name": "Younghoe Koo", "team": "ATL", "rank": 13 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Greg Zuerlein", "team": "NYJ", "rank": 14 },
+            { "name": "Daniel Carlson", "team": "LV", "rank": 15 },
+            { "name": "Graham Gano", "team": "NYG", "rank": 16 }
+          ]
+        }
+      ]
+    }
+  }
+}

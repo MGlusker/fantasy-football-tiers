@@ -1,0 +1,144 @@
+{
+  "position": "QB",
+  "week": 6,
+  "season": 2026,
+  "last_updated": "2026-02-16T12:00:00Z",
+  "formats": {
+    "standard": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "Josh Allen", "team": "BUF", "rank": 1 },
+            { "name": "Jalen Hurts", "team": "PHI", "rank": 2 },
+            { "name": "Lamar Jackson", "team": "BAL", "rank": 3 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Patrick Mahomes", "team": "KC", "rank": 4 },
+            { "name": "Joe Burrow", "team": "CIN", "rank": 5 },
+            { "name": "C.J. Stroud", "team": "HOU", "rank": 6 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Jayden Daniels", "team": "WAS", "rank": 7 },
+            { "name": "Anthony Richardson", "team": "IND", "rank": 8 },
+            { "name": "Kyler Murray", "team": "ARI", "rank": 9 },
+            { "name": "Brock Purdy", "team": "SF", "rank": 10 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "Dak Prescott", "team": "DAL", "rank": 11 },
+            { "name": "Caleb Williams", "team": "CHI", "rank": 12 },
+            { "name": "Jordan Love", "team": "GB", "rank": 13 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Jared Goff", "team": "DET", "rank": 14 },
+            { "name": "Tua Tagovailoa", "team": "MIA", "rank": 15 },
+            { "name": "Baker Mayfield", "team": "TB", "rank": 16 },
+            { "name": "Sam Darnold", "team": "MIN", "rank": 17 }
+          ]
+        }
+      ]
+    },
+    "ppr": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "Josh Allen", "team": "BUF", "rank": 1 },
+            { "name": "Lamar Jackson", "team": "BAL", "rank": 2 },
+            { "name": "Jalen Hurts", "team": "PHI", "rank": 3 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Patrick Mahomes", "team": "KC", "rank": 4 },
+            { "name": "Joe Burrow", "team": "CIN", "rank": 5 },
+            { "name": "C.J. Stroud", "team": "HOU", "rank": 6 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Jayden Daniels", "team": "WAS", "rank": 7 },
+            { "name": "Brock Purdy", "team": "SF", "rank": 8 },
+            { "name": "Kyler Murray", "team": "ARI", "rank": 9 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "Anthony Richardson", "team": "IND", "rank": 10 },
+            { "name": "Dak Prescott", "team": "DAL", "rank": 11 },
+            { "name": "Caleb Williams", "team": "CHI", "rank": 12 },
+            { "name": "Jordan Love", "team": "GB", "rank": 13 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Jared Goff", "team": "DET", "rank": 14 },
+            { "name": "Baker Mayfield", "team": "TB", "rank": 15 },
+            { "name": "Tua Tagovailoa", "team": "MIA", "rank": 16 }
+          ]
+        }
+      ]
+    },
+    "half_ppr": {
+      "tiers": [
+        {
+          "tier": 1,
+          "players": [
+            { "name": "Josh Allen", "team": "BUF", "rank": 1 },
+            { "name": "Jalen Hurts", "team": "PHI", "rank": 2 },
+            { "name": "Lamar Jackson", "team": "BAL", "rank": 3 }
+          ]
+        },
+        {
+          "tier": 2,
+          "players": [
+            { "name": "Patrick Mahomes", "team": "KC", "rank": 4 },
+            { "name": "Joe Burrow", "team": "CIN", "rank": 5 },
+            { "name": "C.J. Stroud", "team": "HOU", "rank": 6 }
+          ]
+        },
+        {
+          "tier": 3,
+          "players": [
+            { "name": "Jayden Daniels", "team": "WAS", "rank": 7 },
+            { "name": "Kyler Murray", "team": "ARI", "rank": 8 },
+            { "name": "Brock Purdy", "team": "SF", "rank": 9 },
+            { "name": "Anthony Richardson", "team": "IND", "rank": 10 }
+          ]
+        },
+        {
+          "tier": 4,
+          "players": [
+            { "name": "Dak Prescott", "team": "DAL", "rank": 11 },
+            { "name": "Caleb Williams", "team": "CHI", "rank": 12 },
+            { "name": "Jordan Love", "team": "GB", "rank": 13 }
+          ]
+        },
+        {
+          "tier": 5,
+          "players": [
+            { "name": "Jared Goff", "team": "DET", "rank": 14 },
+            { "name": "Tua Tagovailoa", "team": "MIA", "rank": 15 },
+            { "name": "Baker Mayfield", "team": "TB", "rank": 16 }
+          ]
+        }
+      ]
+    }
+  }
+}
