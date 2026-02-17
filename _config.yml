@@ -1,7 +1,7 @@
 title: Fantasy Football Tiers
 description: Weekly fantasy football tier rankings
-baseurl: ""
-url: ""
+baseurl: "/fantasy-football-tiers"
+url: "https://mglusker.github.io"
 
 markdown: kramdown
 
